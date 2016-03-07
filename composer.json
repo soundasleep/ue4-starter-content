@@ -1,0 +1,18 @@
+{
+  "name": "soundasleep/ue4-starter-content",
+  "description": "Unreal Engine 4 starter content",
+  "type": "ue4-content",
+  "require": {
+    "soundasleep/ue4-starter-architecture": "dev-master",
+    "soundasleep/ue4-starter-audio": "dev-master",
+    "soundasleep/ue4-starter-blueprints": "dev-master",
+    "soundasleep/ue4-starter-hrdi": "dev-master",
+    "soundasleep/ue4-starter-maps": "dev-master",
+    "soundasleep/ue4-starter-materials": "dev-master",
+    "soundasleep/ue4-starter-particles": "dev-master",
+    "soundasleep/ue4-starter-props": "dev-master",
+    "soundasleep/ue4-starter-shapes": "dev-master",
+    "soundasleep/ue4-starter-textures": "dev-master",
+    "composer/installers": "dev-master"
+  }
+}
