@@ -13,6 +13,12 @@
     "soundasleep/ue4-starter-props": "dev-master",
     "soundasleep/ue4-starter-shapes": "dev-master",
     "soundasleep/ue4-starter-textures": "dev-master",
+    "soundasleep/ue4-starter-textures-brick": "dev-master",
+    "soundasleep/ue4-starter-textures-cobblestone": "dev-master",
+    "soundasleep/ue4-starter-textures-concrete": "dev-master",
+    "soundasleep/ue4-starter-textures-metal": "dev-master",
+    "soundasleep/ue4-starter-textures-rock": "dev-master",
+    "soundasleep/ue4-starter-textures-wood": "dev-master",
     "composer/installers": "dev-master"
   }
 }
